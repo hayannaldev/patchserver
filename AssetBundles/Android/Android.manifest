@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: character.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: ui.unity3d
+      Dependencies: {}
+    Info_2:
+      Name: effect.unity3d
+      Dependencies: {}
+    Info_3:
+      Name: scene.unity3d
+      Dependencies: {}
+    Info_4:
+      Name: animationcurve.unity3d
+      Dependencies: {}
