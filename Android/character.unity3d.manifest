@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3683326409
+CRC: 3281379808
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4261e57b17a3208f2bfebbaf9d9bde6f
+    Hash: 8bfab976fe940125df754fe1f63d0adb
   TypeTreeHash:
     serializedVersion: 2
     Hash: dc0e7d4a8eb427b464488cbd687982b1
@@ -88,7 +88,9 @@ ClassTypes:
 - Class: 199
   Script: {instanceID: 0}
 Assets:
+- Assets/Prefab/Character/GoblinB_Elite.prefab
 - Assets/Prefab/Character/GoblinC.prefab
+- Assets/Prefab/Weapon/GoblinBAxe_Elite.prefab
 - Assets/Prefab/Weapon/GoblinCAxe.prefab
 - Assets/Prefab/Character/GoblinB.prefab
 - Assets/Prefab/Weapon/Sword.prefab
