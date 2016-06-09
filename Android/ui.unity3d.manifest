@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2787712602
+CRC: 2604905183
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 701ed032d3fef5cd9417027df8d17437
+    Hash: 544ec9866c07112300c5a5e817004757
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 7dfa9cad00cee7d3f223c8b1186caa68
+    Hash: bcbf19ea6874497c64a01c8bbdcc42f7
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -56,6 +56,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: ea662a43c40d9ad47a8eff7a235d9ebd, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: ffe5f55336b90604581bb2e556f32253, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 0e4d88a392965744789ca252ed7b46cc, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: fc504a6421cdffa4c90ab901aa4632d7, type: 3}
@@ -96,7 +98,7 @@ Assets:
 - Assets/Prefab/UI/HomeCanvas.prefab
 - Assets/Prefab/UI/DamageFloaterText.prefab
 - Assets/Prefab/UI/PauseCanvas.prefab
-- Assets/Prefab/UI/GaugeCanvas.prefab
+- Assets/Prefab/UI/MonsterDieGaugeCanvas.prefab
 - Assets/Prefab/UI/UIRoot.prefab
 - Assets/Prefab/UI/DamageFloaterCanvas.prefab
 Dependencies: []
