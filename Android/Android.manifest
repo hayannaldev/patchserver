@@ -16,3 +16,6 @@ AssetBundleManifest:
     Info_4:
       Name: animationcurve.unity3d
       Dependencies: {}
+    Info_5:
+      Name: sprite.unity3d
+      Dependencies: {}

@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2604905183
+CRC: 3458106194
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 544ec9866c07112300c5a5e817004757
+    Hash: b7121b75f0e763471609376a79000455
   TypeTreeHash:
     serializedVersion: 2
-    Hash: bcbf19ea6874497c64a01c8bbdcc42f7
+    Hash: ad9b64fcf82e28d5015a5557819c392c
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -62,6 +62,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: fc504a6421cdffa4c90ab901aa4632d7, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 1f3e0a158440abc4fbff09d0be474f4f, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 3b22ab5537090fd4a961a1456049614d, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: bf1f6e7537f58d64383d5fc0252cb85e, type: 3}
@@ -73,6 +75,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 2f3c2d59b68f4dc47b5943a9b56f8f35, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: e6a1f13a675d4a8428b5599d06aeda3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a621c87ad905e4b42879c6cbc01af37a, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 73a42adb81f96414ca1794c5b5ec206b, type: 3}
 - Class: 114
@@ -94,11 +98,14 @@ ClassTypes:
 - Class: 225
   Script: {instanceID: 0}
 Assets:
+- Assets/Prefab/UI/SkillSlotUI.prefab
 - Assets/Prefab/UI/TitleCanvas.prefab
-- Assets/Prefab/UI/HomeCanvas.prefab
+- Assets/Prefab/UI/Icon/SkillIcon.prefab
+- Assets/Prefab/UI/PlayerGaugeUI.prefab
+- Assets/Prefab/UI/HomeUI.prefab
 - Assets/Prefab/UI/DamageFloaterText.prefab
-- Assets/Prefab/UI/PauseCanvas.prefab
-- Assets/Prefab/UI/MonsterDieGaugeCanvas.prefab
+- Assets/Prefab/UI/PauseUI.prefab
+- Assets/Prefab/UI/MonsterDieGaugeUI.prefab
 - Assets/Prefab/UI/UIRoot.prefab
 - Assets/Prefab/UI/DamageFloaterCanvas.prefab
 Dependencies: []
