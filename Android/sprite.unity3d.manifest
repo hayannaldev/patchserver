@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3476248439
+CRC: 3207465931
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 023db515c5dab201054012bb9e5d6cfc
+    Hash: 83e19689361e5da34dddcb78be3f89de
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9dea23ffc7e96552740e12d1ee5309d8
@@ -15,5 +15,5 @@ ClassTypes:
   Script: {instanceID: 0}
 Assets:
 - Assets/Prefab/UI/RawSprite/Icon_Skill_RisingSlush.png
-- Assets/Prefab/UI/RawSprite/Icon_Signal_Dodge.png
+- Assets/Prefab/UI/RawSprite/Icon_Auto_Dodge.png
 Dependencies: []

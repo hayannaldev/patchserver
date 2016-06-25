@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 91629661
+CRC: 1981502595
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b61cfbde5ab0a28716726826f699a645
+    Hash: 653952b9ad0b0fc08ccfe1f63d6ace66
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 7d8d1d74e094a19d19706fd3115ac314
+    Hash: f80d60e5f7aa0735c28121ecdb81096f
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -46,6 +46,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 1301386320, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
 - Class: 114
+  Script: {fileID: -2095666955, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
   Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
 - Class: 114
   Script: {fileID: -98529514, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
@@ -72,15 +74,17 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: a6049178ff9bd324dbfd4b3629e15bc2, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 27b7c059fcdad294a97fbff11d4083ac, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 2f3c2d59b68f4dc47b5943a9b56f8f35, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: e6a1f13a675d4a8428b5599d06aeda3b, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: a621c87ad905e4b42879c6cbc01af37a, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: bc1ab8ba0f927c44389c002ec3159d2a, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 73a42adb81f96414ca1794c5b5ec206b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 39aa946cf28eddb488a91ecec51428f8, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 1804d4ac195f90c41ae2d097ff1a370f, type: 3}
 - Class: 114
@@ -102,7 +106,8 @@ ClassTypes:
 Assets:
 - Assets/Prefab/UI/SkillSlotUI.prefab
 - Assets/Prefab/UI/TitleCanvas.prefab
-- Assets/Prefab/UI/Icon/SkillIcon.prefab
+- Assets/Prefab/UI/Icon/AutoSkillIcon.prefab
+- Assets/Prefab/UI/Icon/ActiveSkillIcon.prefab
 - Assets/Prefab/UI/PlayerGaugeUI.prefab
 - Assets/Prefab/UI/HomeUI.prefab
 - Assets/Prefab/UI/DamageFloaterText.prefab
